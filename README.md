@@ -12,5 +12,9 @@ My work is focused on:
 
 I approach every dataset with curiosity and a problem-solving mindset — whether it's uncovering patterns in sales, analytics, or simplifying complex Excel files into interactive reports.
 Links :
+
+
 LInkedin : www.linkedin.com/in/ikedichi-akara-b7602b1a3
+
+
 Facebook : https://web.facebook.com/akara.ikedichi
