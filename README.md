@@ -28,11 +28,4 @@ A showcase of my data exploration, cleaning, visualization, and reporting skills
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikedichi-akara-b7602b1a3)
 
----
-
-*“Data is the new oil.”*
-
----
-
-> **Let’s connect!**  
 > I’m always open to collaborating on interesting data projects or sharing insights about analytics and visualization.
