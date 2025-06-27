@@ -7,12 +7,6 @@
 Welcome to my GitHub!  
 I’m a data analyst passionate about transforming complex data into clear, actionable insights and compelling visual stories. My toolbox includes **Python**, **Tableau**, and **Power BI**—I love diving into data, uncovering trends, and helping businesses make smarter decisions.
 
-## 🚀 Featured Project
-
-[**Data-Analysis**](https://github.com/ike70/Data-Analysis)  
-A showcase of my data exploration, cleaning, visualization, and reporting skills using real-world datasets.  
-*— Dive in to see how I transform raw data into meaningful business insights!*
-
 ## 🛠️ Skills & Tools
 
 - **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn)
