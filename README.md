@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Ikedichi (ike70)
 
-**Data Analyst | Python • Tableau • Power BI**
+**Data Analyst | Python • Tableau • Power BI • Excel**
 
 ---
 
 Welcome to my GitHub!  
-I’m a data analyst passionate about transforming complex data into clear, actionable insights and compelling visual stories. My toolbox includes **Python**, **Tableau**, and **Power BI**—I love diving into data, uncovering trends, and helping businesses make smarter decisions.
+I’m a data analyst passionate about transforming complex data into clear, actionable insights and compelling visual stories. My toolbox includes **Python**, **Excel**, and **Power BI**—I love diving into data, uncovering trends, and helping businesses make smarter decisions.
 
 ## 🛠️ Skills & Tools
 
