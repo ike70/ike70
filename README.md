@@ -21,5 +21,3 @@ I’m a data analyst passionate about transforming complex data into clear, acti
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikedichi-akara-b7602b1a3)
-
-> I’m always open to collaborating on interesting data projects or sharing insights about analytics and visualization.
